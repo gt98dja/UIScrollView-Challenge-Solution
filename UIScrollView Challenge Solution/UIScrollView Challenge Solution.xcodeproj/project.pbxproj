@@ -21,6 +21,7 @@
 		266A14CB190331DB00D4C738 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 266A14AD190331DA00D4C738 /* UIKit.framework */; };
 		266A14D3190331DB00D4C738 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 266A14D1190331DB00D4C738 /* InfoPlist.strings */; };
 		266A14D5190331DB00D4C738 /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 266A14D4190331DB00D4C738 /* UIScrollView_Challenge_SolutionTests.m */; };
+		266A14E11903335C00D4C738 /* worldMap.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 266A14E01903335C00D4C738 /* worldMap.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		266A14D0190331DB00D4C738 /* UIScrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		266A14D2190331DB00D4C738 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		266A14D4190331DB00D4C738 /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		266A14E01903335C00D4C738 /* worldMap.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		266A14B0190331DA00D4C738 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				266A14E01903335C00D4C738 /* worldMap.jpg */,
 				266A14B1190331DA00D4C738 /* UIScrollView Challenge Solution-Info.plist */,
 				266A14B2190331DA00D4C738 /* InfoPlist.strings */,
 				266A14B5190331DA00D4C738 /* main.m */,
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				266A14C2190331DA00D4C738 /* Images.xcassets in Resources */,
+				266A14E11903335C00D4C738 /* worldMap.jpg in Resources */,
 				266A14B4190331DA00D4C738 /* InfoPlist.strings in Resources */,
 				266A14BD190331DA00D4C738 /* Main.storyboard in Resources */,
 			);
